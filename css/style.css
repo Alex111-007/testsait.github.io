@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Inter:wght@100;200;300&display=swap');
+
+/*
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+  /* header */
+  /* header{
+    float: right;
+    width: 250px;
+    margin-right: 100px;
+    margin-top: 50px;
+  }
+  header ul{
+    text-align: center;
+  }
+  header ul li{
+    display: inline-block;
+  }
+  header ul li a{
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Arima', cursive;
+    margin-left: 30px;
+  } */
+
+  /* section 1 */
+  /* #sec_1{
+    background-image: linear-gradient( rgba(64,67,71), rgba(0, 0, 0, 0.5) ), url(../img/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 100vh;
+  }
+  #sec_1 h1{
+    color: #fff;
+    font-family: 'Arima', cursive;
+    margin: 0;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 15%;
+    font-size: 64px;
+  }
+  #sec_1 p{
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 15.5%;
+  }
+  #sec_1 button{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 60%;
+    left: 18.5%;
+    background: #32383D;
+    border: 1px solid #32383D;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 17px;
+    cursor: pointer;
+  }
+
+
+  @media screen and (max-width: 1920px) {
+    header{
+      float: right;
+      width: 300px;
+      /* background: #ccc; */
+      /* margin-right: 150px;
+      margin-top: 100px;
+    }
+    header ul{
+      text-align: center;
+    }
+    header ul li{
+      display: inline-block;
+    }
+    header ul li a{
+      color: #fff;
+      font-size: 25px;
+      text-decoration: none;
+      font-family: 'Arima', cursive;
+      margin-left: 40px;
+    }
+    #sec_1 h1{
+      color: #fff;
+      font-family: 'Arima', cursive;
+      margin: 0;
+      position: absolute;
+      margin-top: 13%;
+      margin-left: 20%;
+      font-size: 78px;
+    }
+    #sec_1 p{
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      margin: 0;
+      position: absolute;
+      top: 47%;
+      left: 21%;
+    }
+    #sec_1 button{
+      width: 250px;
+      height: 70px;
+      position: absolute;
+      top: 60%;
+      left: 22%;
+      background: #32383D;
+      border: 1px solid #32383D;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 23px;
+      cursor: pointer;
+    }
+  }
+  @media screen and (max-width: 1366px){
+    /* header */
+    /* header{
+      float: right;
+      width: 250px;
+      margin-right: 50px;
+      margin-top: 100px;
+    }
+    header ul{
+      text-align: center;
+    }
+    header ul li{
+      display: inline-block;
+    }
+    header ul li a{
+      color: #fff;
+      font-size: 25px;
+      text-decoration: none;
+      font-family: 'Arima', cursive;
+      margin-left: 30px;
+    }
+    #sec_1 h1{
+      color: #fff;
+      font-family: 'Arima', cursive;
+      margin: 0;
+      position: absolute;
+      margin-top: 20%;
+      margin-left: 20%;
+      font-size: 64px;
+    }
+    #sec_1 p{
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 21%;
+    }
+    #sec_1 button{
+      width: 250px;
+      height: 70px;
+      position: absolute;
+      top: 60%;
+      left: 22%;
+      background: #32383D;
+      border: 1px solid #32383D;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 23px;
+      cursor: pointer;
+    }
+  }
+  @media screen and (max-width: 1200px){
+    #sec_1 h1{
+      color: #fff;
+      font-family: 'Arima', cursive;
+      margin: 0;
+      position: absolute;
+      margin-top: 25%;
+      margin-left: 20%;
+      font-size: 64px;
+    }
+  }
+  @media screen and (max-width: 1024px){
+    #sec_1 h1{
+      color: #fff;
+      font-family: 'Arima', cursive;
+      position: absolute;
+      margin-top: 30%;
+      margin-left: 21%;
+      font-size: 64px;
+    }
+    #sec_1 p{
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 21%;
+    }
+    #sec_1 button{
+      width: 250px;
+      height: 70px;
+      position: absolute;
+      top: 60%;
+      left: 24%;
+      background: #32383D;
+      border: 1px solid #32383D;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 23px;
+      cursor: pointer;
+    }
+  } */
+  /* @media screen and (max-width: 768px){
+    #sec_1{
+      background-image: linear-gradient( rgba(64,67,71), rgba(0, 0, 0, 0.5) ), url(../img/banner.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: fixed;
+      height: 100vh;
+    }
+    #sec_1 h1{
+      color: #fff;
+      font-family: 'Arima', cursive;
+      position: absolute;
+      margin-top: 35%;
+      margin-left: 21%;
+      font-size: 64px;
+    }
+    #sec_1 p{
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 22%;
+    }
+    #sec_1 button{
+      width: 250px;
+      height: 70px;
+      position: absolute;
+      top: 60%;
+      left: 26%;
+      background: #32383D;
+      border: 1px solid #32383D;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 23px;
+      cursor: pointer;
+    }
+  } */
+  /* @media screen and (max-width: 480px){
+    #sec_1 h1{
+      color: #fff;
+      font-family: 'Arima', cursive;
+      position: absolute;
+      margin-top: 65%;
+      margin-left: 15%;
+      font-size: 64px;
+    }
+    #sec_1 p{
+      color: #fff;
+      font-family: 'Inter', sans-serif;
+      font-size: 20px;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 16%;
+    } */
+    /* #sec_1 button{
+      width: 250px;
+      height: 70px;
+      position: absolute;
+      top: 60%;
+      left: 22%;
+      background: #32383D;
+      border: 1px solid #32383D;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 23px;
+      cursor: pointer;
+    }
+  } */
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+}
+/* header */
+header{
+  display: flex;
+  height: 0px;
+  justify-content: flex-end;
+}
+header ul li{
+  display: inline-block;
+  margin-right: 100px;
+  margin-top: 100px;
+}
+header ul li a{
+  color: #fff;
+  font-size: 25px;
+  text-decoration: none;
+  font-family: 'Arima', cursive;
+  margin-left: 0px;
+} */
+
+.container{
+}
+.container .sec_1{
+  display: flex;
+  height: 90vh;
+  background-image: linear-gradient( rgba(64,67,71), rgba(0, 0, 0, 0.5) ), url(../img/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  height: 100vh;
+  align-items: center;
+  object-fit: cover;
+}
+.container .sec_1 .text{
+  margin-left: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 200px;
+  justify-content: space-around;
+}
+.container .sec_1 .text h1{
+  color: #fff;
+  font-family: 'Arima', cursive;
+  font-size: 70px;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  font-weight: 600;
+  text-align: center;
+}
+.container .sec_1 .text p{
+  color: #fff;
+  font-size: 30px;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+}
+.container .sec_1 .text a{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+.container .sec_1 .text button{
+  color: #fff;
+  width: 300px;
+  height: 70px;
+  background: #32383D;
+  border: 1px solid #32383D;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 23px;
+  cursor: pointer;
+  margin: 70px;
+}
+
+@media screen and (max-width: 1200px){
+  .container .sec_1{
+    background-image: linear-gradient( rgba(64,67,71), rgba(0, 0, 0, 0.5) ), url(../img/banner-pade.jpg);
+  }
+  header ul li{
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+  }
+}
+@media screen and (max-width: 1024px){
+  .container .sec_1{
+    background: #404347;
+  }
+.container .sec_1 .text{
+  margin: 0 auto;
+}
+  .container .sec_1 .text h1{
+    color: #fff;
+    font-family: 'Arima', cursive;
+    font-size: 70px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+  }
+  .container .sec_1 .text p{
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+  }
+}
